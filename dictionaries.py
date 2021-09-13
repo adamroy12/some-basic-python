@@ -4,6 +4,7 @@ acronyms = {'LOL':'Laugh out loud',
             'IDK':"I don't know,",
             'TBH':'to be honest'}
 
+
 print(acronyms['LOL'])
 
 acronyms['Skibbidop'] = 'Scat Jazz is the best'
@@ -21,4 +22,10 @@ print(acronyms)
 definition = acronyms.get('NO-KEY')
 print(definition)
 
-# None is the absence of a value, the same as nil?s
+# None is the absence of a value, the same as nil.
+
+sentence = 'IDK' + ' what happened ' + 'TBH'
+translation = acronyms.get('IDK') + ' what happened ' + acronyms.get('TBH')
+
+print('sentence:', sentence)
+print('translation:', translation)
