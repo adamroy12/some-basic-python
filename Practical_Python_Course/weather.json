@@ -1,0 +1,43 @@
+{
+    "coord":{
+       "lon":-1.614,
+       "lat":54.9733
+    },
+    "weather":[
+       {
+          "id":801,
+          "main":"Clouds",
+          "description":"few clouds",
+          "icon":"02d"
+       }
+    ],
+    "base":"stations",
+    "main":{
+       "temp":17.61,
+       "feels_like":17.41,
+       "temp_min":15.5,
+       "temp_max":19.88,
+       "pressure":1014,
+       "humidity":76
+    },
+    "visibility":10000,
+    "wind":{
+       "speed":3.6,
+       "deg":70
+    },
+    "clouds":{
+       "all":20
+    },
+    "dt":1631718742,
+    "sys":{
+       "type":1,
+       "id":1427,
+       "country":"GB",
+       "sunrise":1631684345,
+       "sunset":1631730266
+    },
+    "timezone":3600,
+    "id":2641673,
+    "name":"Newcastle upon Tyne",
+    "cod":200
+ }
