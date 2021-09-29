@@ -18,3 +18,5 @@ greeting(input_name)
 # greeting(name)
 # name2 = input("What's your name?\n")
 # greeting(name2)
+
+#functions are useful for packaging up repetitive code I want to use many times, and for organizing my code into logical units.
